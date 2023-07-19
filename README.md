@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para a empresa Legado Energias Renováveis como fe
 - Instalador para desktop
 - Banco de dados em H2
 - Dimensionamento de sistemas fotovoltaicos off-grid
-- Geração dos resultados em pdf
+- Geração dos resultados em PDF
 
 ## 🛠 Tecnologias
 
