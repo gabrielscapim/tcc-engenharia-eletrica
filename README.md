@@ -23,3 +23,4 @@ Este projeto foi desenvolvido para a empresa Legado Energias Renováveis como fe
 
 ## ✅ Demonstação
 
+![2023-07-19-14-49-13](https://github.com/gabrielscapim/tcc-engenharia-eletrica/assets/117940631/b3dd8caa-826b-4c62-9c65-1febcfeec11c)
